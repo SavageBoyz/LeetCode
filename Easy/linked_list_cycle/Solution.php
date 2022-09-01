@@ -35,6 +35,7 @@
  * Follow up: Can you solve it using O(1) (i.e. constant) memory?
  *
  ***********************************************************************************************************************
+ * The best attempt result:
  *
  * Runtime: 7 ms, faster than 99.12% of PHP online submissions for Linked List Cycle.
  * Memory Usage: 23.6 MB, less than 16.67% of PHP online submissions for Linked List Cycle.
